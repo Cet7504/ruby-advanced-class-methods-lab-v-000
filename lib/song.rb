@@ -47,4 +47,5 @@ class Song
     song.name = new_from_filename[0]
     song.artist_name = new_from_filename[1]
     song
+  end
 end
